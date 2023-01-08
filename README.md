@@ -16,7 +16,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[ Video Youtube]()
+[ Video Youtube](https://youtu.be/c0PNRh58Pjc)
 
 ### Berikut link repository github :
 
